@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3621224252355041016
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7314261370713789845, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_Name
+      value: BlockTrooper Red
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789844, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789844, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789844, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789844, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789844, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789844, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789844, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789844, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789844, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789844, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789844, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314261370713789847, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: factionData
+      value: 
+      objectReference: {fileID: 11400000, guid: 8638d7a7b872d5a49a14a1ee37addfdf,
+        type: 2}
+    - target: {fileID: 7314261370713789847, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: FactionData
+      value: 
+      objectReference: {fileID: 11400000, guid: 8638d7a7b872d5a49a14a1ee37addfdf,
+        type: 2}
+    - target: {fileID: 7314261371068092477, guid: f27dfa267428f924ab3d5ca9f1bbcf1b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 196f5cf991224d949a0f2d78f647b6c6, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f27dfa267428f924ab3d5ca9f1bbcf1b, type: 3}
