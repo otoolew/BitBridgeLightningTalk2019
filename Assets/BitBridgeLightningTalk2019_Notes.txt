@@ -1,0 +1,60 @@
+BitBridge Lightning Talks 2019
+
+Stack State Machine and Mecanim State Machine
+Presented by William O'Toole
+
+Tools and Software used
+GIMP 
+https://www.gimp.org/
+
+Assets Used
+POLYGON BLACKSMITH Toon Soldiers Demo FREE
+https://assetstore.unity.com/packages/3d/characters/toon-soldiers-demo-69684
+
+Checker.png
+Taken from ProBuilder 
+	Use Unity Package Manager to install ProBuilder. 
+	Under Packages in your hierarchy navigate to ProBuilder/Content/Material/Textures/Checker
+	Copy and Paste to your projects texture art folder.
+
+basic_soldier_red created with GIMP
+	1. Import the basic_soldier_blue texture into GIMP
+	2. Select All (Ctrl+A) 
+	3. Under the Colors Tab -> Map -> Rotate Colors
+	4. Use the Source Range and Destination Range Color Wheels to change the blue uniform color to any color you like.
+	5. Under the File Tab select Export As... to export your new basic_soldier_red
+
+All Code examples are heavily influenced by 
+
+Jonathan Parham 
+
+	Main Site
+	http://theliquidfire.com
+
+	Tactics RPG State Machine
+	http://theliquidfire.com/2015/06/01/tactics-rpg-state-machine/
+	
+	Social Scripting Part 1 Direct Reference, Unity Legacy Messaging, Unity New Messaging, Unity Events
+	http://theliquidfire.com/2014/12/08/social-scripting-part-1/
+	
+	Social Scripting Part 2 Delegates, C# Events
+	http://theliquidfire.com/2014/12/10/social-scripting-part-2/  
+	
+	Social Scripting Part 3 Notification Center
+	http://theliquidfire.com/2014/12/10/social-scripting-part-3/
+	
+	Better than events - Comparing C# Native Events, Unity Events and the Notification Center
+	http://theliquidfire.com/2015/06/15/better-than-events/
+	
+	Scriptable Objects
+	http://theliquidfire.com/2018/04/16/scriptable-objects/#more-1252
+	
+	
+HOLISTIC3D
+https://holistic3d.com/resources/npc-finite-state-machine/
+	
+Jasper Flick
+https://catlikecoding.com/unity/tutorials/	
+
+
+
